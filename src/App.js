@@ -12,7 +12,7 @@ function App() {
       <Biography />
       <Details />
       {/* <Gallery /> */}
-      {/* <Tributes /> */}
+      <Tributes />
     </>
   );
 }

@@ -11,16 +11,29 @@ export const Text = styled.p`
     font-family: ${({family})=> family || "poppins"};
     width: ${({width})=> width || "auto"};
     text-shadow: ${({shadow})=> shadow || "none"};
+
+    &::first-letter{
+        font-size: ${({first})=> first && "60px"};
+    }
+    
 `
 
 export const Card = styled.div`
-    padding: ${({padding})=> padding || "10px"};
-    margin: ${({margin})=> margin || "0px"};
-    border-radius:${({radius})=>  radius || "10px"};
-    background-color: ${({bg})=> bg || "transparent"};
-    width: 120%;
+    width: 90%;
     box-sizing: border-box;
-    height: 200px;
+    min-height: 200px;
+    border-radius: 10px;
+    background-color: #6E0039;
+    color: white;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+    &:nth-of-type(even){
+        background-color: #6E0039;
+    }
 `
 
 export const HeaderContainer = styled.div`
@@ -82,5 +95,5 @@ export const GalleryContainer = styled.div`
 `
 
 export const TributeContainer = styled.div`
-    
+    padding-top: 100px;
 `

@@ -40,7 +40,7 @@ export const tributes = [
         by: "Josh &Helen Ehiorobu"
     },
     {
-        tribute: `"There is a saying that we make a life by what we give", Uzu as u are fondly called made a great life. 
+        tribute: `There is a saying that we make a life by what we give", Uzu as u are fondly called made a great life. 
         She was the easiest person I have known/met, so giving of herself. So easy to talk to, she has a way of nudging you to the right direction with her words. Her Sprituality is worth emulating, wanting everyone to take the truth seriously. Oh! Her sisterly advice which I will forever cherish. Her heart is big enough to offer individual attention to everyone, which I benefited from. Her KINDNESS and POSITIVITY will leave an unwavering chapter in my life. Your death still has not changed anything. Your kind words, your sound advice, your generosity will forever remain in my heart. Memories is what I have remaining of u, which we created and shared. So my dear till we meet again when Jehovah will call and you will answer, YOU are forever LOVED
         `,
         by: "Joy Naana",
@@ -166,7 +166,7 @@ export const tributes = [
     },
     {
         by: "D.Omofuriota",
-        tribute: `: She was a spiritual woman who took spiritual activities seriously and was always present at meetings and other theocratic activities.
+        tribute: `She was a spiritual woman who took spiritual activities seriously and was always present at meetings and other theocratic activities.
 
         She was a loving, dutiful, loyal, supportive, industrious, hard working, understanding, generous, and kind hearted wife.
         
