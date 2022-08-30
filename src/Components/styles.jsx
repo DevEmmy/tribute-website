@@ -18,5 +18,19 @@ export const Card = styled.div`
 `
 
 export const HeaderContainer = styled.div`
+    height: 100vh;
+    width: 100%;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+`
+
+export const BiographyContainer = styled.div`
+    
+`
+
+export const DetailsContainer = styled.div`
     
 `
