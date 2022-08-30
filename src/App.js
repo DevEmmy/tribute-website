@@ -1,3 +1,4 @@
+import Gallery from "./Components/assets/Gallery";
 import Biography from "./Components/Biography";
 import Details from "./Components/Details";
 import Header from "./Components/Header";
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Biography />
       <Details />
+      {/* <Gallery /> */}
       {/* <Tributes /> */}
     </>
   );

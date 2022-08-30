@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import bg1 from "./assets/bg1.jpg"
+import bg2 from "./assets/bg2.JPG"
 
 export const Text = styled.p`
     font-size: ${({fontSize})=> fontSize || "18px"};
@@ -36,12 +36,51 @@ export const HeaderContainer = styled.div`
 export const BiographyContainer = styled.div`
     padding: 20px ;
     background-color: #DDD7C6;
+
+    img{
+        width: 100%;
+        height: auto;
+        padding: 10px 0;
+    }
 `
 
 export const DetailsContainer = styled.div`
+    padding: 50px 20px;
+    background: url(${bg2});
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
     
 `
 
 export const Images = styled.div`
 
+`
+
+export const GalleryContainer = styled.div`
+    /* background-color: black;  */
+
+    .carousel{
+        position: relative;
+        // height: "100vh",
+        width: 100%;
+        /* display: flex; */
+        flex: 1;
+        justify-content: center;
+        align-items: middle;
+        padding: 200px 0;
+        /* margin: 100px 0; */
+       
+    }
+    
+    img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+`
+
+export const TributeContainer = styled.div`
+    
 `
