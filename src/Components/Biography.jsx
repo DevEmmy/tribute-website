@@ -5,7 +5,7 @@ import { BiographyContainer, Text } from './styles'
 const Biography = () => {
   return (
     <BiographyContainer>
-        <Text>
+        <Text centered padding="20px 0">
             Biography
         </Text>
 

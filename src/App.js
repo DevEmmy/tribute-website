@@ -4,12 +4,13 @@ import Header from "./Components/Header";
 import Tributes from "./Components/Tributes";
 
 function App() {
+ 
   return (
     <>
       <Header />
       <Biography />
       <Details />
-      <Tributes />
+      {/* <Tributes /> */}
     </>
   );
 }
