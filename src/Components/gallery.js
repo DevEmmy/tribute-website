@@ -69,6 +69,26 @@ import img68 from "./assets/68.jpg"
 import img69 from "./assets/69.jpg"
 import img70 from "./assets/70.jpg"
 import img71 from "./assets/71.jpg"
+import img72 from "./assets/72.jpg"
+import img73 from "./assets/73.jpg"
+import img74 from "./assets/74.jpg"
+import img75 from "./assets/75.jpg"
+import img76 from "./assets/76.jpg"
+import img77 from "./assets/77.jpg"
+import img78 from "./assets/78.jpg"
+import img79 from "./assets/79.jpg"
+import img80 from "./assets/80.jpg"
+import img81 from "./assets/81.jpg"
+import img82 from "./assets/82.jpg"
+import img83 from "./assets/83.jpg"
+import img84 from "./assets/84.jpg"
+import img85 from "./assets/85.jpg"
+import img86 from "./assets/86.jpg"
+import img87 from "./assets/87.jpg"
+import img88 from "./assets/88.jpg"
+import img89 from "./assets/89.jpg"
+import img90 from "./assets/90.jpg"
+import last from "./assets/last.jpg"
 
 
 
@@ -218,6 +238,46 @@ export const gallery = [
         img: img70
     },{
         img: img71
+    },{
+        img: img72
+    },{
+        img: img73
+    },{
+        img: img74
+    },{
+        img: img75
+    },{
+        img: img76
+    },{
+        img: img77
+    },{
+        img: img78
+    },{
+        img: img79
+    },{
+        img: img80
+    },{
+        img: img81
+    },{
+        img: img82
+    },{
+        img: img83
+    },{
+        img: img84
+    },{
+        img: img85
+    },{
+        img: img86
+    },{
+        img: img87
+    },{
+        img: img88
+    },{
+        img: img89
+    },{
+        img: img90
+    },{
+        img: last
     }
 
 ]

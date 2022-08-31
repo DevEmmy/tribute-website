@@ -4,10 +4,11 @@ export const data = {
     location: "Kingdom Hall of Jehovah's witnesses 1, Oladele Adeniji Street, Owutu, Asolo opp. 2nd Mobil filling station Okorodu",
     zoomId: "848 1850 8839",
     zoomPasscode: 600665,
+    zoomLink: "https://us02web.zoom.us/j/84818508839?pwd=LzZFS0JmUkFNc1Rsem9sbmt2c3ZhUT09",
     date: "September 3, 2022",
     time: "09:00 AM",
     biography:`
-    Uzuazoraro Ovuokerie Adeosun (Omueda) fondly called "Uzu or Zuazo" by family and friends. She was born to late chief Godfrey O. Omueda and Sister/Ms Hope Obugo in Ebute - Męta Lagos Nigeria.
+    Uzuazoraro Ovuokerie Adeosun (Omueda) fondly called "Uzu or Zuazo" by family and friends. She was born to late chief Godfrey O. Omueda and Sister/Mama Hope Obugo in Ebute - Męta Lagos Nigeria.
 
 Uzuazo Adeosun passed away peacefully at the Hospital on Sunday, August 21, 22. Her husband of 13years and her oldest sister was by her side at the time of death.
 
@@ -33,7 +34,7 @@ FOREVER IN OUR HEARTS-----SISTER FOR LIFE
 export const tributes = [
     {
         tribute: `The resurrection hope is so sure in our hearts and is just around the corner. Looking forward to seeing you In the new world which is just around the corner beloved Uzuazo Adeosun.`,
-        by: "Okepighe"
+        by: "Okepighe's"
     },
     {
         tribute: `The Last time we saw you, we had the happiest day of our life. The thought we will be seeing you next at an even happier day, both saddens and comforts.  Many sad days will follow now we don't have you with us, but we know death has lost its sting hence we are comforted. We know the next time we see, Jehovah will see to it that we have a day of happiness unimaginable. Till that day we will miss you with hope dear Aunty Uzuazor.`,
@@ -178,7 +179,7 @@ export const tributes = [
         `
     },
     {
-        by: "P.Arimomo",
+        by: "P. Arimoro",
         tribute: ` The moment I received the message stating the demise of my dear sister, It was so so saddening. And almost immediately, beautiful memories of her began to flush my mind. The precious moments we shared during the territory seldom work are memories I would never trade for any other thing. Working side by side with her in the field ministry has truly proved to very inciting for me. Her zealousness in serving Jehovah is a wonderful quality I truly admire. her strong appreciation for our spiritual heritage are obviously even seen in both Lydia and Timothy. Her undeniable acts of generosity and her spirit of hospitality are actions that are deeply ingrained in her heart. Jehovah knows these, and for a certainty, she will rise again! She will rise again in a world filled with peace and good health, to a life of eternity, a world where the sting of death will become powerless!`
     },
     {
@@ -268,7 +269,7 @@ export const tributes = [
         `
     },
     {
-        by: "Kenny Fashusi",
+        by: "The Fashusi's",
         tribute: ` Mama Rife. Rife, hmmmn who will call me that again, Oh Uzuazo, death have taken you away from All your Sister for life. Well even though death have taken you away from us we have the hope of Resurrection, realizing you are sleeping. Remain in Gods love my beautiful darling younger sister awaiting the resurrection hope.`
     },
     {
@@ -278,7 +279,7 @@ export const tributes = [
         
         I recall our childhood days when we used to eat together- we were the slowest eaters in the house. 
         
-        I I recall when mummy first enrolled you in Ebenezer Primary School, you said you didn't want to go to school, you cried and begged that your school uniform should be given to Esther (our late cousin)
+        I recall when mummy first enrolled you in Ebenezer Primary School, you said you didn't want to go to school, you cried and begged that your school uniform should be given to Esther (our late cousin)
         I recall our days in secondary school, how we take  the bus To and Fro everyday and sometimes how we trekked.....
         
         Oh I recalled the best of them all...when we got baptized on Saturday 21, 1995 it was the best day of our lives.

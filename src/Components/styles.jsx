@@ -11,6 +11,7 @@ export const Text = styled.p`
     font-family: ${({family})=> family || "poppins"};
     width: ${({width})=> width || "auto"};
     text-shadow: ${({shadow})=> shadow || "none"};
+    text-decoration: ${({link})=> link && "underline" };
 
     &::first-letter{
         font-size: ${({first})=> first && "60px"};

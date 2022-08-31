@@ -33,6 +33,10 @@ const Details = () => {
             Password: {data.zoomPasscode}
         </Text>
 
+        <Text color='white' fontSize="12px" link>
+            <a href={data.zoomLink}>Join Via Zoom Link</a>
+        </Text>
+
         <Text color='white' margin="20px 0 0 0">
             When
         </Text>
