@@ -5,7 +5,7 @@ import cert from "./assets/cerificate.jpg"
 
 const Biography = () => {
   return (
-    <BiographyContainer>
+    <BiographyContainer id="biography">
 
         <Text centered padding="20px 0">
             Biography

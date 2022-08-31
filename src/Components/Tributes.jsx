@@ -7,7 +7,10 @@ import 'swiper/css';
 const Tributes = () => {
 
   return (
-    <TributeContainer>
+    <TributeContainer id='tributes'>
+      <Text centered color='#6E0039' fontSize='26px' fontWeight="600">
+          Tributes
+      </Text>
         <Swiper
       spaceBetween={50}
       slidesPerView={1}
@@ -18,7 +21,9 @@ const Tributes = () => {
         tributes.map((_, i)=>{
             return(
                 <SwiperSlide>
-                <Card>
+                <Card bg = {
+                  i%2 !== 0 ? "#6E0039" : "#AE6DAB"
+                }>
                     <Text first fontSize="14px" color="white" centered family="niconne">
                        { '"' + _.tribute.trim()} 
                     </Text>

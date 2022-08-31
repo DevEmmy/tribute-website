@@ -6,7 +6,7 @@ import ReactCardCarousel from "react-card-carousel";
 const Gallery = () => {
     
   return (
-    <GalleryContainer>
+    <GalleryContainer id="gallery">
         <Text centered padding="20px 0" color="white">
             Gallery
         </Text>

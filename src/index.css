@@ -5,9 +5,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image:linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(./Components/assets/bg1.jpg);
   background-attachment: fixed;
+  scroll-behavior: smooth;
+  scroll-snap-type: mandatory;
+  scroll-snap-align: unset;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
 }

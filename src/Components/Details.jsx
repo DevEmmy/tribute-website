@@ -6,7 +6,11 @@ import { DetailsContainer, Text } from './styles'
 const Details = () => {
   return (
     <DetailsContainer>
-        <Text color='white' centered fontSize="40px" family="niconne">
+
+        <Gallery />
+
+        
+        <Text color='white' centered fontSize="40px" family="niconne" id="details">
             Memorial Service
         </Text>
 
@@ -39,8 +43,6 @@ const Details = () => {
         </Text>
         </div>
 
-        
-        <Gallery />
     </DetailsContainer>
   )
 }

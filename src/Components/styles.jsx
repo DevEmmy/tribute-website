@@ -23,7 +23,7 @@ export const Card = styled.div`
     box-sizing: border-box;
     min-height: 200px;
     border-radius: 10px;
-    background-color: #6E0039;
+    background-color: ${({bg})=> bg};
     color: white;
     padding: 10px;
     margin: 0 auto;
@@ -31,9 +31,7 @@ export const Card = styled.div`
     align-items: center;
     justify-content: center;
 
-    &:nth-of-type(even){
-        background-color: #6E0039;
-    }
+    
 `
 
 export const HeaderContainer = styled.div`
@@ -95,5 +93,32 @@ export const GalleryContainer = styled.div`
 `
 
 export const TributeContainer = styled.div`
-    padding-top: 100px;
+    padding: 100px 0 30px;
+    background: #C1A1BF;
+`
+
+export const Icon = styled.div`
+    /* display: flex; */
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    z-index: 10000000000000;
+    padding: 10px 20px;
+`
+
+export const NavBarContainer = styled.div`
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000000000000;
 `
