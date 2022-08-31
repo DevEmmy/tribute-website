@@ -270,5 +270,52 @@ export const tributes = [
     {
         by: "Kenny Fashusi",
         tribute: ` Mama Rife. Rife, hmmmn who will call me that again, Oh Uzuazo, death have taken you away from All your Sister for life. Well even though death have taken you away from us we have the hope of Resurrection, realizing you are sleeping. Remain in Gods love my beautiful darling younger sister awaiting the resurrection hope.`
+    },
+    {
+        by: "TARE",
+        tribute: `DEAR Zuazo as I fondly call you.
+        It's hard for me to pen these words because in my heart you're still here, however I must write them for me to always read because it reminds me of our life (as your name implies) together.
+        
+        I recall our childhood days when we used to eat together- we were the slowest eaters in the house. 
+        
+        I I recall when mummy first enrolled you in Ebenezer Primary School, you said you didn't want to go to school, you cried and begged that your school uniform should be given to Esther (our late cousin)
+        I recall our days in secondary school, how we take  the bus To and Fro everyday and sometimes how we trekked.....
+        
+        Oh I recalled the best of them all...when we got baptized on Saturday 21, 1995 it was the best day of our lives.
+        
+        I recall when you got married and when you you gave birth to Lilly girl and Tim boy as I fondly call them.
+        
+        I recall all our laughters, cries, jokes, quarrels , and settlement ,plans,plans and plans...
+        I recall all our encouraging words to each other and how we discuss, analyze and appreciate the scriptures, publications ,our organization, Jehovah and Jesus. 
+        
+        I can go on and on....
+        To say I miss you is an understatement but what keeps me going is knowing that Jehovah will not stop loving us if our life should end, and that you are in his memory as if you're alive.
+        
+        See you soon when HE calls and You will answer 
+        Your SISTER FOR LIFE.`
+    },
+    {
+        by: "The Adejobi’s",
+        tribute: `Our dear and lovely Uzuazo, she has a special place in our hearts, we already miss her extremely and we long to see her in the resurrection. We will always fondly remember and cherish her beautiful smile and laughter. Her positive attitude and care for those around her. We ache that we didn’t get a chance to see her and can’t wait for the day that we will. The day when she will hear Jesus’ voice and come out and we will fondly hug and kiss her with tears of joy (John 5:28, 29). Our love always and forever. 
+        `
+    },
+    {
+        by: "Priscilla Iwuagwu",
+        tribute: `Sister Uzuazo was one of our dearest and beloved sister in the congregation, she was focussed on spiritual things, she showed spiritual pursuits, she was a Friend, a calm, loving, humble, quiet, peaceful sister, loves Jehovah spiritually minded, always in the ministry irrespective of her busy schedule, our heart bleeds over her sudden departure but Jehovah the God of all comfort will comfort us as we have the hope of resurrection. She showed by her words and actions that Jehovah is the most important person to her and Jehovah will remember. `
+    },
+    {
+        by: "Remi Kojo",
+        tribute: `
+        We all take solace in Jehovah’s promise which surely will not fail.  May Jehovah console the family of Adeoshun and Omueda families. 
+We look forward to a time when no one will say “I am sick.” When Jehovah will “swallow up death.”Isa. 25:8
+        `
+    },
+    {
+        by: "Omorogas",
+        tribute: `May Jehovah continue to console us with the promises found in Isaiah 25:8...May Jehovah remember her for good.`
+    },
+    {
+        by: "Fisayo Adejobi",
+        tribute: `We met just once but the memory is very fresh in my heart. It was a positive experience at your place that day. We truly appreciate your hospitality...See you soon when all is new🙏`
     }
 ]
