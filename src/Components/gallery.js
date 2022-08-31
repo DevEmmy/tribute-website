@@ -88,6 +88,7 @@ import img87 from "./assets/87.jpg"
 import img88 from "./assets/88.jpg"
 import img89 from "./assets/89.jpg"
 import img90 from "./assets/90.jpg"
+import img91 from "./assets/91.jpg"
 import last from "./assets/last.jpg"
 
 
@@ -276,6 +277,8 @@ export const gallery = [
         img: img89
     },{
         img: img90
+    },{
+        img: img91
     },{
         img: last
     }
