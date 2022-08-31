@@ -74,7 +74,6 @@ import img73 from "./assets/73.jpg"
 import img74 from "./assets/74.jpg"
 import img75 from "./assets/75.jpg"
 import img76 from "./assets/76.jpg"
-import img77 from "./assets/77.jpg"
 import img78 from "./assets/78.jpg"
 import img79 from "./assets/79.jpg"
 import img80 from "./assets/80.jpg"
@@ -249,8 +248,6 @@ export const gallery = [
         img: img75
     },{
         img: img76
-    },{
-        img: img77
     },{
         img: img78
     },{
