@@ -122,3 +122,21 @@ export const NavBarContainer = styled.div`
     right: 0;
     z-index: 10000000000000;
 `
+
+export const DIContainer = styled.div`
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    z-index: 10000000000000;
+    display: flex;
+    align-items: center;
+    
+
+    img{
+        width: 100%;
+        max-height: 100vh;
+        object-fit: cover;
+    }
+`

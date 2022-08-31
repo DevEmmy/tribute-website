@@ -1,10 +1,22 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { gallery } from '../gallery'
-import { GalleryContainer, Text } from '../styles'
+import { DIContainer, GalleryContainer, Icon, Text } from '../styles'
 import ReactCardCarousel from "react-card-carousel";
+import { HiArrowLeft } from 'react-icons/hi';
 
 const Gallery = () => {
-    
+    const [image, setImage] = useState();
+
+    const DisplayImage = ()=>{
+        return(
+            <DIContainer>
+                <Icon>
+                    <HiArrowLeft color="white" size={20} onClick={()=> setImage(null)}/>
+                </Icon>
+                <img src={image} alt="" />
+            </DIContainer>
+        )
+    }
   return (
     <GalleryContainer id="gallery">
         <Text centered padding="20px 0" color="white">
@@ -18,7 +30,7 @@ const Gallery = () => {
         >
            {gallery.map((img, i)=>{
             return(
-                <div className="img" key={i}>
+                <div className="img" key={i} onClick={()=> setImage(img.img)}>
                     <img src={img.img} alt="" />
                 </div>
             )
@@ -26,7 +38,7 @@ const Gallery = () => {
         </ReactCardCarousel>
         </div>
         
-        
+        {image && <DisplayImage />}
     </GalleryContainer>
   )
 }
