@@ -60,7 +60,7 @@ export const DetailsContainer = styled.div`
     background: url(${bg2});
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
     color: white;
     
 `

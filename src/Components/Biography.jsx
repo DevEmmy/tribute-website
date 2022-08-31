@@ -1,7 +1,7 @@
 import React from 'react'
 import { data } from './data'
 import { BiographyContainer, Text } from './styles'
-import cert from "./assets/cerificate.jpg"
+import cert from "./assets/main.jpg"
 
 const Biography = () => {
   return (

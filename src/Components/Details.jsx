@@ -22,7 +22,10 @@ const Details = () => {
         <Text color='white' fontSize="12px">
             {data.location}
         </Text>
-        <Text color='white' fontSize="12px">
+        <Text 
+        color='white' 
+        fontSize="12px" 
+        padding="10px 0 0">
             Zoom Id: {data.zoomId}
         </Text>
 
