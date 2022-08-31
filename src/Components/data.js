@@ -34,7 +34,7 @@ FOREVER IN OUR HEARTS-----SISTER FOR LIFE
 export const tributes = [
     {
         tribute: `The resurrection hope is so sure in our hearts and is just around the corner. Looking forward to seeing you In the new world which is just around the corner beloved Uzuazo Adeosun.`,
-        by: "Okepighe's"
+        by: "Okpighe's"
     },
     {
         tribute: `The Last time we saw you, we had the happiest day of our life. The thought we will be seeing you next at an even happier day, both saddens and comforts.  Many sad days will follow now we don't have you with us, but we know death has lost its sting hence we are comforted. We know the next time we see, Jehovah will see to it that we have a day of happiness unimaginable. Till that day we will miss you with hope dear Aunty Uzuazor.`,
