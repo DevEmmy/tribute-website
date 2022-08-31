@@ -1,12 +1,12 @@
 export const data = {
     title: "In memory of our dear sister",
     name: "Uzuazoraro Ovuokerie Adeosun",
-    location: "Kingdom Hall of Jehovah's witnesses 1, Oladele Adeniji Street, Owutu, Asolo opp. 2nd Mobil filling station Okorodu",
+    location: "Kingdom Hall of Jehovah's witnesses 1, Oladele Adeniji Street, Owutu, Asolo opp. 2nd Mobil filling station Ikorodu",
     zoomId: "848 1850 8839",
     zoomPasscode: 600665,
     zoomLink: "https://us02web.zoom.us/j/84818508839?pwd=LzZFS0JmUkFNc1Rsem9sbmt2c3ZhUT09",
     date: "September 3, 2022",
-    time: "09:00 AM",
+    time: "11:00 AM",
     biography:`
     Uzuazoraro Ovuokerie Adeosun (Omueda) fondly called "Uzu or Zuazo" by family and friends. She was born to late chief Godfrey O. Omueda and Sister/Mama Hope Obugo in Ebute - Męta Lagos Nigeria.
 
