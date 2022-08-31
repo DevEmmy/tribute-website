@@ -70,7 +70,7 @@ export const Images = styled.div`
 `
 
 export const GalleryContainer = styled.div`
-    /* background-color: black;  */
+    background-color: #AE6DAB; 
 
     .carousel{
         position: relative;

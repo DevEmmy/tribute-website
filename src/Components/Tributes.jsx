@@ -24,7 +24,7 @@ const Tributes = () => {
                 <Card bg = {
                   i%2 !== 0 ? "#6E0039" : "#AE6DAB"
                 }>
-                    <Text first fontSize="14px" color="white" centered family="poppins">
+                    <Text fontSize="14px" color="white" centered family="poppins">
                        { '"' + _.tribute.trim()} 
                     </Text>
 
