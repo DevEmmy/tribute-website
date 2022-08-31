@@ -33,6 +33,42 @@ import img32 from "./assets/32.jpg"
 import img33 from "./assets/33.jpg"
 import img34 from "./assets/34.jpg"
 import img35 from "./assets/35.jpg"
+import img36 from "./assets/36.jpg"
+import img37 from "./assets/37.jpg"
+import img38 from "./assets/38.jpg"
+import img39 from "./assets/39.jpg"
+import img40 from "./assets/40.jpg"
+import img41 from "./assets/41.jpg"
+import img42 from "./assets/42.jpg"
+import img43 from "./assets/43.jpg"
+import img44 from "./assets/44.jpg"
+import img45 from "./assets/45.jpg"
+import img46 from "./assets/46.jpg"
+import img47 from "./assets/47.jpg"
+import img48 from "./assets/48.jpg"
+import img49 from "./assets/49.jpg"
+import img50 from "./assets/50.jpg"
+import img51 from "./assets/51.jpg"
+import img52 from "./assets/52.jpg"
+import img53 from "./assets/53.jpg"
+import img54 from "./assets/54.jpg"
+import img55 from "./assets/55.jpg"
+import img56 from "./assets/56.jpg"
+import img57 from "./assets/57.jpg"
+import img58 from "./assets/58.jpg"
+import img59 from "./assets/59.jpg"
+import img60 from "./assets/60.jpg"
+import img61 from "./assets/61.jpg"
+import img62 from "./assets/62.jpg"
+import img63 from "./assets/63.jpg"
+import img64 from "./assets/64.jpg"
+import img65 from "./assets/65.jpg"
+import img66 from "./assets/66.jpg"
+import img67 from "./assets/67.jpg"
+import img68 from "./assets/68.jpg"
+import img69 from "./assets/69.jpg"
+import img70 from "./assets/70.jpg"
+import img71 from "./assets/71.jpg"
 
 
 
@@ -108,5 +144,80 @@ export const gallery = [
         img: img34
     },{
         img: img35
-    },
+    },{
+        img: img36
+    },{
+        img: img37
+    },{
+        img: img38
+    },{
+        img: img39
+    },{
+        img: img40
+    },{
+        img: img41
+    },{
+        img: img42
+    },{
+        img: img43
+    },{
+        img: img44
+    },{
+        img: img45
+    },{
+        img: img46
+    },{
+        img: img47
+    },{
+        img: img48
+    },{
+        img: img49
+    },{
+        img: img51
+    },{
+        img: img52
+    },{
+        img: img53
+    },{
+        img: img54
+    },{
+        img: img55
+    },{
+        img: img54
+    },{
+        img: img55
+    },{
+        img: img56
+    },{
+        img: img57
+    },{
+        img: img58
+    },{
+        img: img59
+    },{
+        img: img60
+    },{
+        img: img61
+    },{
+        img: img62
+    },{
+        img: img63
+    },{
+        img: img64
+    },{
+        img: img65
+    },{
+        img: img66
+    },{
+        img: img67
+    },{
+        img: img68
+    },{
+        img: img69
+    },{
+        img: img70
+    },{
+        img: img71
+    }
+
 ]
