@@ -95,6 +95,8 @@ import img94 from "./assets/94.jpg"
 import img95 from "./assets/95.jpg"
 import img96 from "./assets/96.jpg"
 import img97 from "./assets/97.jpg"
+import img98 from "./assets/98.jpg"
+import img99 from "./assets/99.jpg"
 import last from "./assets/last.jpg"
 
 
@@ -297,6 +299,10 @@ export const gallery = [
         img: img96
     },{
         img: img97
+    },{
+        img: img98
+    },{
+        img: img99
     },{
         img: last
     }
